@@ -21,9 +21,9 @@ char pass[] = "your_password_wifi";
 long before = 0;
 long before2= 0;
 
-int merah = 13;
-int hijau = 12;
-int buzzer = 14;  // Pin untuk buzzer
+int merah = 18;
+int hijau = 15;
+int buzzer = 13;  // Pin untuk buzzer
 int relay = 21;
 bool isNotified = false;
 
